@@ -1,16 +1,13 @@
-### Hi there 👋
+# About
+- Proficient in the software development life cycle (SDLC), using Agile methodologies with broad knowledge of a range of programming languages and technologies
+- Stepping out of the architecture ivory tower and getting back to my development roots 
+- :link: [GavinLas@LinkedIn](https://www.linkedin.com/in/gavinlas/)
 
-<!--
-**gavinlas/gavinlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Interests
+- Cloud (:cloud:)  
+- AWS (:partly_sunny:) 
+- Solution Architecture (:japanese_castle:)
+- Python (:snake:) 
+- React, React Native (:unicorn:) 
+- JavaScript, TypeScript, Node (:coffee:) 
+- Microservices (:black_small_square::black_large_square:)
