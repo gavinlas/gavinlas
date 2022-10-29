@@ -4,8 +4,7 @@
 - :link: [GavinLas@LinkedIn](https://www.linkedin.com/in/gavinlas/)
 
 # Interests
-- Cloud (:cloud:)  
-- AWS (:partly_sunny:) 
+- Cloud, AWS (:partly_sunny:) 
 - Solution Architecture (:japanese_castle:)
 - Python (:snake:) 
 - React, React Native (:unicorn:) 
