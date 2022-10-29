@@ -13,4 +13,5 @@
 - React, React Native (:spider_web::iphone:) 
 - JavaScript, TypeScript, Node (:coffee::receipt:) 
 - Microservices (:black_large_square::black_small_square:)
+- Security (:closed_lock_with_key:) 
 
