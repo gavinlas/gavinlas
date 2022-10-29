@@ -9,4 +9,4 @@
 - Python (:snake:) 
 - React, React Native (:unicorn:) 
 - JavaScript, TypeScript, Node (:coffee:) 
-- Microservices (:black_small_square::black_large_square:)
+- Microservices (:black_large_square::black_small_square:)
