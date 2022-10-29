@@ -14,4 +14,4 @@
 - JavaScript, TypeScript, Node (:coffee::receipt:) 
 - Microservices (:black_large_square::black_small_square:)
 - Security (:closed_lock_with_key:) 
-
+- [Funny T-shirts](https://www.redbubble.com/shop/?gender=gender-men&iaCode=u-tees&sortOrder=relevant&style=u-tee-regular-crew&tShirtColor=tShirtColor-black&tShirtSize=tShirtSize-l) (:tshirt:)
