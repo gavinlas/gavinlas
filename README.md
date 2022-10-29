@@ -10,7 +10,7 @@
 - Cloud, AWS (:partly_sunny:) 
 - Solution Architecture (:japanese_castle:)
 - Python (:snake:) 
-- React, React Native (:unicorn:) 
-- JavaScript, TypeScript, Node (:coffee:) 
+- React, React Native (:spider_web::iphone:) 
+- JavaScript, TypeScript, Node (:coffee::receipt:) 
 - Microservices (:black_large_square::black_small_square:)
 
