@@ -7,11 +7,8 @@
 - :link: [GavinLas@LinkedIn](https://www.linkedin.com/in/gavinlas/)
 
 # Interests
-- Cloud, AWS (:partly_sunny:) 
-- Solution Architecture (:japanese_castle:)
-- Python (:snake:) 
-- React, React Native (:spider_web::iphone:) 
-- JavaScript, TypeScript, Node (:coffee::receipt:) 
-- Microservices (:black_large_square::black_small_square:)
-- Security (:closed_lock_with_key:) 
+- Programming Languages: JavaScript (:coffee::receipt:), Node (:green_square:), TypeScript (:keyboard:), Python (:snake:)  
+- Frameworks: React (:spider_web:), React Native (:iphone:)
+- Cloud: AWS (:partly_sunny:) 
+- Other: Solution Architecture (:japanese_castle:), Security (:closed_lock_with_key:), Microservices (:black_large_square::black_small_square:) 
 - [Funny T-shirts](https://www.redbubble.com/shop/?gender=gender-men&iaCode=u-tees&sortOrder=relevant&style=u-tee-regular-crew&tShirtColor=tShirtColor-black&tShirtSize=tShirtSize-l) (:tshirt:)
