@@ -7,5 +7,5 @@
 - Programming Languages: JavaScript (:coffee::receipt:), Node (:green_square:), TypeScript (:keyboard:), Python (:snake:)  
 - Frameworks: React (:spider_web:), Nextjs (:small_red_triangle:)
 - Cloud: AWS (:partly_sunny:) 
-- Other: Solution Architecture (:japanese_castle:), Security (:closed_lock_with_key:), Microservices (:black_large_square::black_small_square:) 
+- Other: Solution Architecture (:japanese_castle:), Security (:closed_lock_with_key:), Microservices (:black_large_square::black_small_square:), Docker (:whale:) 
 - [Funny T-shirts](https://www.redbubble.com/shop/?gender=gender-men&iaCode=u-tees&sortOrder=relevant&style=u-tee-regular-crew&tShirtColor=tShirtColor-black&tShirtSize=tShirtSize-l) (:tshirt:)
